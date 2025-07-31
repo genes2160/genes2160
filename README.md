@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Angular, PHP, Python, Flask Python, NodeJs, ExpressJs, ReactJs, Anything Vanilla in Js, Jquery, CodeIgniter PHP, Laravel PHP, VueJs**
 
-- 📫 How to reach me **eugenethecomputerguy@gmail.com**
+- 📫 How to reach me **duodueugene@gmail.com**
 
 - 📄 Know about my experiences [https://eugenedee.herokuapp.com/resume](https://eugenedee.herokuapp.com/resume)
 
