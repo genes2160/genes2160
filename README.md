@@ -1,43 +1,93 @@
 <h1 align="center">Eugene Duodu (Dee for Short) 👋</h1>
-<h3 align="center">Senior Full Stack Engineer from Ghana</h3>
+**Senior Full Stack Engineer • Problem Solver • AI Enthusiast**
 
-## Snapshot
-Problem-first engineer with 7+ years of experience building, stabilizing, and modernizing systems across domains: medical, music, insurance, investment, blockchain, and extensibility platforms (browser/VSCode). I bridge legacy and modern—PHP/WordPress to Python and TypeScript—while keeping solutions simple, understanding problems deeply, and making onboarding easy for others. Strong believer in human+AI collaboration: deploying quantized models, building chatbots, transcription/voice interfaces, and tooling that augments work without friction.
+A pragmatic engineer bridging legacy systems and modern stacks. I build reliable, low-friction tools—often AI-augmented—that help teams and products move faster while keeping things clear, simple, and maintainable.
 
-## Core Expertise
-- **Domains:** Healthcare apps, music platforms, insurance systems, investment tooling, blockchain projects, browser extensions, VSCode integrations.  
-- **Tech Stack:** Python, JavaScript/TypeScript, PHP, React, Vue, Postgres, MongoDB, Redis, Docker, Nginx/Apache.  
-- **Approach:** Problem decomposition over premature coding, clear communication, minimal friction automation, legacy-to-modern transformations, and pragmatic AI augmentation.  
-- **Interests:** AI (lightweight/quantized models, Hugging Face, voice command & transcription), TikTok development, extension ecosystems, real-time tooling, and continuous learning.
+---
 
-## What Drives Me
-- Cloning and improving real-world apps to understand patterns deeply.  
-- Making complex systems approachable: clean processes, readable code, and easy handoffs.  
-- Exploring the intersection of human workflows and intelligent automation.  
-- Collaborating with people who value clarity, honesty, and durable solutions.
+## 🚀 About
+With 7+ years of consistent experience, I’ve shipped and stabilized systems across domains: medical & health platforms, music applications, insurance & investment systems, browser & VSCode extensions, blockchain integrations, and AI tooling (including quantized models, chatbots, and voice/transcription interfaces). I’m passionate about exploring new tech (TikTok dev, small-footprint AI, automation), but I start with understanding the problem—simplicity and clarity drive the best solutions. I enjoy turning complex flows into something any new developer can pick up and extend.
 
-## Hobbies & Extras
-Sightseeing, photography, contributing to open tooling (e.g., Google-related), experimenting with voice/command interfaces, building and refining developer experiences.
+---
 
-## Quick Links
-- 🌐 Projects: https://eugenedee.herokuapp.com/projects  
-- 📄 Résumé: https://eugenedee.herokuapp.com/resume  
-- ✉️ Email: duodueugene@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/eugene-dee-339050150  
-- 🧠 Stack Overflow: https://stackoverflow.com/users/8642536/eugene-dee  
+## 🛠 Skills & Focus
 
-## Connect
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/eugene-dee-339050150)
-[![CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/eugenedee)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/eugenethecomput1)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/eugenedee_d33)
+**Languages & Frameworks:**  
+Python, TypeScript/JavaScript, PHP (legacy & modern), React, Vue, Flask, Express, Node.js
 
-## Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=genes2160&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genes2160&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+**Datastores & APIs:**  
+PostgreSQL, MongoDB, Redis, NoSQL patterns, REST, GraphQL
+
+**Infra / Ops:**  
+Docker, Nginx, Apache, CI/CD pipelines, deployment stabilization, legacy migrations
+
+**Tooling & Interests:**  
+Browser extensions (Chrome), VSCode extensions, voice UI, transcription (Hugging Face), automation, AI/ML integration, system design, observability
+
+**Mindset:**  
+Problem-first (over code-first), clarity in requirements & communication, efficient workflows, bug-spotting with empathy for maintainability, honest timelines.
+
+---
+
+## 🔍 Selected Domains Worked On
+- Medical applications & health tooling  
+- Music and media platforms  
+- Browser and editor extensions (Chrome, VSCode)  
+- Insurance & investment systems  
+- Cloned / inspired real-world app transformations  
+- Blockchain integrations  
+- AI & ML tooling: chatbots, quantized models, voice/transcription interfaces  
+- TikTok-related development & experimentation  
+
+---
+
+## 💡 Philosophy
+I believe solving the right problem is more important than writing clever code. Clear communication, minimal cognitive overhead, and tooling that scales with people—not just systems—are foundational. I automate repetitive work, surface real value early, and keep designs approachable for collaborators.
+
+---
+
+## 🎯 Current & Ongoing
+- Working on systems that combine calendar/context data with intelligent drafting and approval flows (e.g., productivity/time summarization tools)  
+- Exploring lightweight AI model deployment and real-time augmentation for developer workflows  
+- Open to collaboration across new stacks and data challenges
+
+---
+
+## 📸 Hobbies & Side Interests
+- Sightseeing & photography  
+- Contributing to open source (incl. Google-related tools)  
+- Voice command and transcription interfaces  
+- Building ergonomic developer experiences  
+- Experimenting with AI for practical automation  
+
+---
+
+## 📫 Connect & Follow
+<p style="display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin:0; font-size:0.95em;">
+  <a href="https://github.com/genes2160" target="_blank">🐙 GitHub</a>
+  <a href="https://linkedin.com/in/eugene-dee-339050150" target="_blank">💼 LinkedIn</a>
+  <a href="https://codepen.io/eugenedee" target="_blank">🖋 CodePen</a>
+  <a href="https://stackoverflow.com/users/8642536/eugene-dee" target="_blank">🧠 Stack Overflow</a>
+  <a href="https://www.hackerrank.com/eugenethecomput1" target="_blank">🧪 HackerRank</a>
+  <a href="https://leetcode.com/eugenedee_d33" target="_blank">🧮 LeetCode</a>
+  <a href="mailto:duodueugene@gmail.com">✉️ Email</a>
 </p>
 
 ---
 
-*License: [MIT](https://opensource.org/licenses/MIT)*
+## 📈 Stats (optional)
+<!-- You can keep or remove these if you prefer a cleaner look -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=genes2160&show_icons=true&locale=en" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genes2160&show_icons=true&locale=en&layout=compact" alt="Top languages" width="49%" />
+</p>
+
+---
+
+## 📝 License
+**MIT License**  
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction... *(full text in [LICENSE](./LICENSE))*  
+
+---
+
+*Built with curiosity. Designed for clarity. Always learning.*
