@@ -1,6 +1,10 @@
 <h1 align="center">Hello there 👋, I'm Eugene Dee.</h1>
 <h3 align="center">A passionate Full Stack developer from Ghana</h3>
 
+<h4>Brief Info</h4>
+<p>Senior software engineer with 7+ years of consistent experience solving real problems across stacks. I bridge legacy and modern systems—Python, PHP, JavaScript, Postgres, Mongo, React, Vue—backed by solid infra (Nginx, Apache, Docker). I have a keen eye for bugs, insist on clarity in communication and requirements, and build efficient, honest solutions with deadlines in mind. Deeply interested in AI, I automate workflows and surface real value with minimal friction.</p>
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genes2160&label=Profile%20views&color=0e75b6&style=flat" alt="genes2160" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=genes2160" alt="genes2160" /></a> </p>
